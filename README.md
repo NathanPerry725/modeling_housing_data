@@ -24,8 +24,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/2dde5663e03b4165b853ff65e723c26d)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/49336b2c7b5d491fa1f16ad0049baa0e)) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DISR-412 Regression Challenge](https://www.kaggle.com/c/dsir-412-project-2-regression-challenge)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -47,15 +47,15 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, April 10**.
+Materials must be submitted by the beginning of class on **Friday, May 7**.
 
-The last day for the Kaggle competition will be **Friday, April 10**.
+The last day for the Kaggle competition will be **Friday, May 7**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DISR-412 Regression Challenge](https://www.kaggle.com/c/dsir-412-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-412-project-2-regression-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
